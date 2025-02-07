@@ -1,0 +1,6 @@
+README.md
+setup.py
+Auto_ml_pipeline.egg-info/PKG-INFO
+Auto_ml_pipeline.egg-info/SOURCES.txt
+Auto_ml_pipeline.egg-info/dependency_links.txt
+Auto_ml_pipeline.egg-info/top_level.txt
