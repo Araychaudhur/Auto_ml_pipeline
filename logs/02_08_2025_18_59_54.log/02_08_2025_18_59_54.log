@@ -1,0 +1,5 @@
+[ 2025-02-08 18:59:54,737 ] 20 root - INFO - Data ingestion started
+[ 2025-02-08 18:59:54,737 ] 22 root - INFO - Reading data from local system
+[ 2025-02-08 18:59:54,767 ] 24 root - INFO - Data loaded successfully
+[ 2025-02-08 18:59:54,830 ] 29 root - INFO - Data spliting stage completed
+[ 2025-02-08 18:59:54,893 ] 37 root - INFO - Data Ingestion completed

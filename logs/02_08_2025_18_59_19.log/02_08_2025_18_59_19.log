@@ -1,0 +1,3 @@
+[ 2025-02-08 18:59:24,379 ] 20 root - INFO - Data ingestion started
+[ 2025-02-08 18:59:24,379 ] 22 root - INFO - Reading data from local system
+[ 2025-02-08 18:59:24,379 ] 45 root - INFO - Error occured in data ingestion stage
