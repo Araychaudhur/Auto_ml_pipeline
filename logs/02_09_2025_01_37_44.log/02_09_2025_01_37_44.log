@@ -1,0 +1,10 @@
+[ 2025-02-09 01:37:44,638 ] 21 root - INFO - Data ingestion started
+[ 2025-02-09 01:37:44,638 ] 23 root - INFO - Reading data from local system
+[ 2025-02-09 01:37:44,667 ] 25 root - INFO - Data loaded successfully
+[ 2025-02-09 01:37:44,722 ] 30 root - INFO - Data spliting stage completed
+[ 2025-02-09 01:37:44,787 ] 38 root - INFO - Data Ingestion completed
+[ 2025-02-09 01:37:44,850 ] 78 root - INFO - Outliers capped on our train data
+[ 2025-02-09 01:37:44,857 ] 83 root - INFO - Outliers capped on our train data
+[ 2025-02-09 01:37:44,857 ] 26 root - INFO - Data Transformation Started
+[ 2025-02-09 01:37:44,857 ] 90 root - INFO - Splitting train data into dependant and independant features
+[ 2025-02-09 01:37:44,857 ] 94 root - INFO - Splitting test data into dependant and independant features
