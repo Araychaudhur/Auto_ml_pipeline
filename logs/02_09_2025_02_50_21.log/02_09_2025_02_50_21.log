@@ -1,0 +1,11 @@
+[ 2025-02-09 02:50:23,107 ] 22 root - INFO - Data ingestion started
+[ 2025-02-09 02:50:23,107 ] 24 root - INFO - Reading data from local system
+[ 2025-02-09 02:50:23,131 ] 26 root - INFO - Data loaded successfully
+[ 2025-02-09 02:50:23,200 ] 31 root - INFO - Data spliting stage completed
+[ 2025-02-09 02:50:23,287 ] 39 root - INFO - Data Ingestion completed
+[ 2025-02-09 02:50:23,369 ] 78 root - INFO - Outliers capped on our train data
+[ 2025-02-09 02:50:23,387 ] 83 root - INFO - Outliers capped on our train data
+[ 2025-02-09 02:50:23,387 ] 26 root - INFO - Data Transformation Started
+[ 2025-02-09 02:50:23,387 ] 90 root - INFO - Splitting train data into dependant and independant features
+[ 2025-02-09 02:50:23,390 ] 94 root - INFO - Splitting test data into dependant and independant features
+[ 2025-02-09 02:50:49,643 ] 78 root - INFO - best model selected, Model Name is Random Forest, accuracy Score: 0.7863142798606843
