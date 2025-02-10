@@ -1,0 +1,16 @@
+[ 2025-02-10 01:23:10,979 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-10 01:23:10,995 ] 97 werkzeug - INFO -  * Debugger PIN: 994-675-993
+[ 2025-02-10 01:23:30,184 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Feb/2025 01:23:30] "GET / HTTP/1.1" 200 -
+[ 2025-02-10 01:23:30,247 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Feb/2025 01:23:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-02-10 01:29:04,010 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Feb/2025 01:29:04] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2025-02-10 01:29:04,020 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Feb/2025 01:29:04] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-02-10 01:29:04,261 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Feb/2025 01:29:04] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-02-10 01:29:04,602 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Feb/2025 01:29:04] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=9AnbIFfDdU0XoPPtNUUP HTTP/1.1" 200 -
+[ 2025-02-10 01:29:04,866 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Feb/2025 01:29:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-02-10 01:29:35,347 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Feb/2025 01:29:35] "GET / HTTP/1.1" 200 -
+[ 2025-02-10 01:33:26,051 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Feb/2025 01:33:26] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2025-02-10 01:33:26,064 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Feb/2025 01:33:26] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-02-10 01:33:26,289 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Feb/2025 01:33:26] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-02-10 01:33:26,607 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Feb/2025 01:33:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=9AnbIFfDdU0XoPPtNUUP HTTP/1.1[0m" 304 -
+[ 2025-02-10 01:33:26,871 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Feb/2025 01:33:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-02-10 01:34:10,529 ] 97 werkzeug - INFO -  * Detected change in 'c:\\projects\\auto_ml_pipeline\\app.py', reloading
